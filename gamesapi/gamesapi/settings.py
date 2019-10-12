@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'gamesapi.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'gamespai',
+        'NAME': 'gamesapi',
         'USER': 'root',
         'PASSWORD': '',
         'HOST': '127.0.0.1',
